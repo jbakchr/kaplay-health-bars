@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "kaplay": "^3001.0.10"
+  },
+  "name": "kaplay-health-bars",
+  "version": "1.0.0",
+  "description": "![WIP](https://img.shields.io/badge/status-WIP-yellow) <br>_🚧 This package is a work in progress! 🚧_   _Expect breaking changes and incomplete features._",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbakchr/kaplay-health-bars.git"
+  },
+  "keywords": [
+    "kaplay",
+    "games",
+    "health",
+    "bar"
+  ],
+  "author": "Jonas Bak Phillipson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbakchr/kaplay-health-bars/issues"
+  },
+  "homepage": "https://github.com/jbakchr/kaplay-health-bars#readme"
+}
