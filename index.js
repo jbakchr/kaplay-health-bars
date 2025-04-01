@@ -1,4 +1,4 @@
-const makeHealthBar = (w, h, x, y, hp, healthColor = GREEN) => {
+export const makeHealthBar = (w, h, x, y, hp, healthColor = GREEN) => {
   // Health bar base
   const healthBarBase = make([
     rect(w, h),
