@@ -3,7 +3,7 @@
     "kaplay": "^3001.0.10"
   },
   "name": "kaplay-health-bars",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "![WIP](https://img.shields.io/badge/status-WIP-yellow) <br>_🚧 This package is a work in progress! 🚧_   _Expect breaking changes and incomplete features._",
   "main": "index.js",
   "devDependencies": {},
